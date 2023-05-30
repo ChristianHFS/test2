@@ -1,0 +1,106 @@
+PlastiCode - Fitur Aplikasi
+
+> Fitur
+	~ Dashboard
+		+ Deteksi Jenis Plastik
+		+ History Deteksi
+		+ Rekomendasi Tempat "Daur Ulang Sampah"
+		+ Ikon Pengaturan
+	~ Deteksi Jenis Plastik
+	~ Hasil Deteksi
+	~ Detail Hasil Deteksi
+	~ History Deteksi
+	~ Rekomendasi Tempat "Daur Ulang Sampah"
+	~ Pengaturan
+		+ Bahasa / Language
+		+ Dark Mode
+
+> Deteksi Jenis Plastik
+	~ Input : 
+		+ Permission camera
+		+ Ambil Gambar / Gallery
+	~ Output : Toast dan Pindah ke Page "Hasil Deteksi"
+	~ Tools : 
+		+ CameraX
+		+ Intent Gallery
+	~ API : 
+		+ Post Foto Plastik
+		+ Response
+			- Error(Boolean)
+			- Message(String)
+
+> Hasil Deteksi
+	~ Input : -
+	~ Output : Hasil Image Processing
+		+ Gagal
+			- Foto
+			- Error message
+		+ Sukses
+			- Foto
+			- Jenis plastik dan artinya
+			- Masa penggunaan plastik berdasarkan jenis plastik
+			- Tingkat bahaya plastik berdasarkan jenis plastik
+	~ Tools : 
+	~ API : 
+		+ Get Jenis Plastik
+		+ Response
+			- UrlFoto(String)
+			- JenisPlastik(String)
+			- JenisMasaPakai(String)
+			- JenisBahaya(String)
+			- Error(Boolean)
+			- Message(String)
+
+> Detail Hasil Deteksi
+	~ Input : -
+	~ Output : Detail Hasil Image Processing
+		+ Foto
+		+ Penjelasan Kode Plastik
+		+ Penjelasan Bahaya
+		+ Panduan pengolahan
+	~ Tools : 
+	~ API : 
+		+ Get Detail Jenis Plastik
+		+ Response
+			- UrlFoto(String)
+			- JenisPlastik(String)
+			- JenisMasaPakai(String)
+			- JenisBahaya(String)
+			- DetailJenisPlastik(String)
+			- DetailMasaPakai(String)
+			- DetailBahaya(String)
+			- Error(Boolean)
+			- Message(String)
+
+> History Deteksi (Local)
+	~ Input : -
+	~ Output : 
+		+ Recycler View
+		+ Klik = Pindah ke Page "Detail Hasil Deteksi"
+	~ Tools : 
+		+ Datastore
+	~ API : -
+
+> Rekomendasi Tempat "Daur Ulang Sampah"
+	~ Input : 
+		+ Permission location
+		+ Lokasi saat ini
+	~ Output : 
+		+ Lokasi "Daur Ulang Plastik" terdekat
+	~ Tools : 
+	~ API : Google Maps API
+
+> Pengaturan
+	~ Input : 
+	~ Output : 
+		+ Bahasa Indonesia / English
+		+ Light Mode / Dark Mode
+	~ Tools : 
+		+ Datastore
+	~ API : Google Maps API
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+	Kode Plastik dan Artinya
+1.	PET atau PETE (Polyethylene Terephthalate): Biasanya digunakan untuk botol air minum, botol minuman bersoda, dan wadah makanan. Kode ini mengindikasikan bahwa plastik tersebut dapat didaur ulang dan digunakan kembali.
+2.	HDPE (High-Density Polyethylene): Biasanya digunakan untuk botol susu, botol sampo, pipa air, dan wadah makanan. HDPE juga dapat didaur ulang.
+3.	PVC (Polyvinyl Chloride): Biasanya digunakan untuk pipa, tirai shower, botol obat, dan mainan anak-anak. PVC memiliki risiko kesehatan dan lingkungan yang lebih tinggi dan biasanya sulit didaur ulang.
+4.	LDPE (Low-Density Polyethylene): Biasanya digunakan untuk kantong belanja, film pelindung, dan wadah makanan. LDPE dapat didaur ulang.
+5.	PP (Polypropylene): Biasanya digunakan untuk botol minuman, wadah makanan, dan mainan anak-anak. PP dapat didaur ulang.
+6.	PS (Polystyrene): Biasanya digunakan untuk styrofoam, bungkus makanan, dan kotak berbentuk poligon. PS sulit didaur ulang.
+7.	Other atau campuran plastik: Kode ini mencakup berbagai jenis plastik seperti polycarbonate (PC), polylactic acid (PLA), dan acrylic (PMMA). Plastik dengan kode nomor 7 seringkali sulit didaur ulang karena merupakan campuran atau jenis plastik yang tidak termasuk dalam kategori lainnya.
+
+	Masa Penggunaan
+1.	PET atau PETE: Botol air minum PET umumnya memiliki masa penggunaan harian sekitar beberapa hari hingga beberapa minggu tergantung pada seberapa sering digunakan dan apakah dibuang atau diisi ulang. Botol makanan PET juga dapat digunakan dalam jangka waktu yang serupa.
+2.	HDPE: Botol susu HDPE dan botol sampo HDPE biasanya digunakan dalam hitungan minggu atau bulan tergantung pada frekuensi penggunaan dan ukuran produk.
+3.	PVC: Produk PVC seperti pipa dan bahan konstruksi biasanya memiliki masa penggunaan yang jauh lebih lama, berkisar dari beberapa tahun hingga beberapa dekade.
+4.	LDPE: Kantong belanja LDPE dan wadah makanan sekali pakai LDPE sering digunakan dalam hitungan hari atau seminggu, tergantung pada penggunaan individual. Masa penggunaan dapat berbeda berdasarkan frekuensi penggunaan dan kekuatan produk.
+5.	PP: Wadah makanan PP dan botol minuman PP umumnya dapat digunakan dalam hitungan hari atau beberapa minggu tergantung pada penggunaan individu dan kondisi penyimpanan.
+
+6.	PS: Styrofoam dan bungkus makanan berbasis PS sering digunakan sekali dan memiliki masa penggunaan harian atau makanan berjangka pendek, biasanya hanya beberapa jam hingga beberapa hari.
+7.	Other atau campuran plastik: Masa penggunaan plastik dengan kode nomor 7 dapat bervariasi tergantung pada jenis plastik yang digunakan dan produknya. Beberapa produk dengan kode ini dapat memiliki masa penggunaan harian atau mingguan, sementara yang lain mungkin digunakan dalam jangka waktu yang lebih lama.
+
+	Tingkat Bahaya
+1.	PET atau PETE: Aman dengan penggunaan normal. Namun, dapat berpotensi berbahaya jika terkena panas yang tinggi atau digunakan berulang kali dalam jangka waktu lama.
+2.	HDPE: Aman dengan penggunaan normal. Tidak diketahui adanya risiko signifikan terhadap kesehatan manusia.
+3.	PVC: Berpotensi berbahaya. Mengandung bahan kimia berpotensi berbahaya seperti phthalate dan klorin. Pada suhu tinggi, dapat melepaskan asam klorida.
+4.	LDPE: Aman dengan penggunaan normal. Tidak diketahui adanya risiko signifikan terhadap kesehatan manusia.
+5.	PP: Aman dengan penggunaan normal. Tidak diketahui adanya risiko signifikan terhadap kesehatan manusia.
+6.	PS: Berpotensi berbahaya. Styrofoam (PS) mengandung zat berbahaya seperti styrene, terutama jika terkena panas tinggi.
+7.	Other atau campuran plastik: Tergantung pada jenis plastik yang termasuk dalam kategori ini. Beberapa jenis plastik dalam kategori ini mungkin aman, sementara yang lain mungkin berpotensi berbahaya.
